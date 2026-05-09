@@ -147,6 +147,9 @@ The Power BI dashboard includes:
 ### 📌 Dataset Used
 Olist Brazilian E-Commerce Public Dataset
 
+Dataset Link:
+[Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ### 📌 Dataset Characteristics
 - 100k+ Orders
 - Multiple Relational Tables
